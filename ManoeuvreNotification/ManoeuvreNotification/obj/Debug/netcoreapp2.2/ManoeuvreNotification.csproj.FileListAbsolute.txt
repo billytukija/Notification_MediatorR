@@ -1,0 +1,16 @@
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ManoeuvreNotification\ManoeuvreNotification\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ManoeuvreNotification\ManoeuvreNotification\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ManoeuvreNotification\ManoeuvreNotification\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ManoeuvreNotification\ManoeuvreNotification\bin\Debug\netcoreapp2.2\ManoeuvreNotification.deps.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ManoeuvreNotification\ManoeuvreNotification\bin\Debug\netcoreapp2.2\ManoeuvreNotification.runtimeconfig.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ManoeuvreNotification\ManoeuvreNotification\bin\Debug\netcoreapp2.2\ManoeuvreNotification.runtimeconfig.dev.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ManoeuvreNotification\ManoeuvreNotification\bin\Debug\netcoreapp2.2\ManoeuvreNotification.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ManoeuvreNotification\ManoeuvreNotification\obj\Debug\netcoreapp2.2\ManoeuvreNotification.csprojAssemblyReference.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ManoeuvreNotification\ManoeuvreNotification\obj\Debug\netcoreapp2.2\ManoeuvreNotification.RazorAssemblyInfo.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ManoeuvreNotification\ManoeuvreNotification\obj\Debug\netcoreapp2.2\ManoeuvreNotification.RazorAssemblyInfo.cs
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ManoeuvreNotification\ManoeuvreNotification\obj\Debug\netcoreapp2.2\ManoeuvreNotification.AssemblyInfoInputs.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ManoeuvreNotification\ManoeuvreNotification\obj\Debug\netcoreapp2.2\ManoeuvreNotification.AssemblyInfo.cs
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ManoeuvreNotification\ManoeuvreNotification\obj\Debug\netcoreapp2.2\ManoeuvreNotification.RazorTargetAssemblyInfo.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ManoeuvreNotification\ManoeuvreNotification\bin\Debug\netcoreapp2.2\ManoeuvreNotification.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ManoeuvreNotification\ManoeuvreNotification\obj\Debug\netcoreapp2.2\ManoeuvreNotification.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ManoeuvreNotification\ManoeuvreNotification\obj\Debug\netcoreapp2.2\ManoeuvreNotification.pdb
